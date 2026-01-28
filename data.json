@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "Neon Arena",
+      "description": "Real-time multiplayer lobby + matchmaking concept with clean UI and fast interactions.",
+      "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+      "tags": ["React", "Node", "Socket.IO"],
+      "category": "web",
+      "role": "Full Stack",
+      "year": "2025",
+      "links": { "demo": "#", "details": "#" }
+    },
+    {
+      "title": "Cyber Dashboard",
+      "description": "Analytics-driven admin suite with modular components, filters, and role-based navigation.",
+      "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+      "tags": ["React", "Bootstrap", "RBAC"],
+      "category": "web",
+      "role": "Frontend",
+      "year": "2024",
+      "links": { "demo": "#", "details": "#" }
+    },
+    {
+      "title": "Smart Insurance",
+      "description": "Lead + onboarding flow with event tracking, multi-step forms, and production-grade UX.",
+      "cover": "https://images.unsplash.com/photo-1520975869018-4f2e4b67f5f6?auto=format&fit=crop&w=1600&q=80",
+      "tags": ["React", "Express", "MongoDB"],
+      "category": "backend",
+      "role": "Full Stack",
+      "year": "2026",
+      "links": { "demo": "#", "details": "#" }
+    },
+    {
+      "title": "Frost UI Kit",
+      "description": "Reusable UI kit: inputs, tables, modals, and patterns designed for speed and consistency.",
+      "cover": "https://images.unsplash.com/photo-1546443046-ed1ce6ffd1ab?auto=format&fit=crop&w=1600&q=80",
+      "tags": ["Design System", "React", "UX"],
+      "category": "landing",
+      "role": "Frontend",
+      "year": "2025",
+      "links": { "demo": "#", "details": "#" }
+    }
+  ]
+}
