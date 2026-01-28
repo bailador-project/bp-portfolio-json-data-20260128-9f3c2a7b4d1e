@@ -1,21 +1,6 @@
 {
     "projects": [
-        {
-            "title": "Neon Arena",
-            "description": "Real-time multiplayer lobby + matchmaking concept with clean UI and fast interactions.",
-            "cover": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
-            "tags": [
-                "React",
-                "Node",
-                "Socket.IO"
-            ],
-            "category": "web",
-            "role": "Full Stack",
-            "year": "2025",
-            "links": {
-                "demo": "#",
-                "details": "#"
-            }
-        }
+        
+        
     ]
 }
