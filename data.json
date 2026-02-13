@@ -4,9 +4,17 @@
       "title": "Risk Word",
       "description": "Hangman-style game where one player enters a word and the opponent must guess it within a 59-second time limit. On each turn, the player can enter a single character or attempt to guess the entire word. Based on their choices, they will either win or lose the game.",
       "cover": "https://res.cloudinary.com/du8mzxbie/image/upload/v1770945145/bproject_wallpaper_eezwwx.jpg",
-      "tags": ["HTML5", "CSS3", "CSS", "JavaScript", "Howler JS", ""],
+      "tags": ["HTML5", "CSS3", "CSS", "JavaScript", "Howler JS"],
       "category": "game", "role": "Front-end", "year": "2021",
-      "links": { "demo": "https://risk-word-game.vercel.app", "details": "#" }
+      "links": { "demo": "https://risk-word-game.vercel.app" }
+    },
+    {
+      "title": "Scool Data",
+      "description": "Scool Data is an EdTech platform focused on IT education, offering on-demand recorded courses taught by industry professionals. Students can access structured learning paths, high-quality video lessons, and practical content designed to accelerate their tech careers.",
+      "cover": "https://res.cloudinary.com/du8mzxbie/image/upload/v1770945145/bproject_wallpaper_eezwwx.jpg",
+      "tags": ["JSX", "React JS", "CSS3", "Bootstrap", "JavaScript", "Node JS", "JWT", "Vimeo", "Mercado Pago", "Stripe"],
+      "category": "web", "role": "Full-stack", "year": "2025",
+      "links": { "demo": "https://scooldata.com" }
     }
     
   ]
