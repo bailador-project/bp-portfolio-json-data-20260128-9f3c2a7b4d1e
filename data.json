@@ -1,6 +1,15 @@
 {
   "projects": [
-
+    {
+      "title": "Risk Word",
+      "description": "Hangman-style game where one player enters a word and the opponent must guess it within a 59-second time limit. On each turn, the player can enter a single character or attempt to guess the entire word. Based on their choices, they will either win or lose the game.",
+      "cover": "https://res.cloudinary.com/du8mzxbie/image/upload/v1770945145/bproject_wallpaper_eezwwx.jpg",
+      "tags": ["HTML5", "CSS3", "CSS", "JavaScript", "Howler JS", ""],
+      "category": "game",
+      "role": "Full Stack",
+      "year": "2025",
+      "links": { "demo": "https://risk-word-game.vercel.app", "details": "#" }
+    }
     
   ]
 }
